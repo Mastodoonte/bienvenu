@@ -1,2 +1,2 @@
 # Landing_page
-git@github.com:Mastodoonte/bienvenu.git
+https://mastodoonte.github.io/bienvenu/
